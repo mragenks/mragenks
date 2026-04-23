@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ageng</h1>
 <h3 align="center">and I'm a Web enthusiastic</h3>
 
+- 📫 How to reach me **theqar07@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ageng-sasmito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ageng-sasmito/" height="30" width="40" /></a>
